@@ -1,0 +1,11 @@
+body{
+    background-image: url("img/small-transparent-address-book.png");
+}
+
+#login .container #login-row #login-column #login-box{
+    margin-top: 70px;
+    max-width: 600px;
+    height: 310px;
+    box-shadow: 2px 2px 2px 2px #343a40;
+    border-radius: 3px;
+}
